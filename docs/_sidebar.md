@@ -1,5 +1,5 @@
 * [Home](/)
-* [React JS](ReactJS.md)
+* [React JS](ReactJs.md)
 * [Git](Git.md)
 * [Tech Stacks](TechStacks.md)
 * [Books](Books.md)
