@@ -1,0 +1,7 @@
+@startuml
+Alice -> Bob: test
+John -> Anna : hello
+Alice -> Bob: test
+John -> Anna : hello
+Mango --> Apple
+@endumld
