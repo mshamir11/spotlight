@@ -9,6 +9,7 @@ How can you add plantUML diagrams to your repositories. We would be using [PUML 
 4. Run ```puml-for-markdown``` in the root directory. 
 [Example With Only Link](https://tinyurl.com/225p775n)<!--[Example With Only Link](./PlantUmlDiagrams/example.puml)-->
 5. Now, you would be having a link. If you just add `!` in the beginning in the beginning of `[Example With Only Link](https://tinyurl.com/225p775n)`. You would be able to embed the plantUML.
+
 ![Example With Only Link](https://tinyurl.com/225p775n)
 
 ### Pro Tip
