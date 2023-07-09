@@ -9,4 +9,4 @@
 [Github](http://github.com/mshamir11) 
 [Get Started](#home) 
 
-![](https://static.vecteezy.com/system/resources/previews/000/549/810/original/vector-abstract-technology-background-technology-digital-world-of-business-information-futuristic-blue-virtual-graphic-interface.jpg)
+![](./media/cover_page_bg.jpeg)
